@@ -30,3 +30,6 @@ The script will perform the following actions:
 
 ## Output
 The output of the script is a CSV file named `results.csv`. The file contains columns for Probability, Mean Estimation Time (in milliseconds), and Mean Number of Unique Elements. This file can be used for further analysis and visualization of FlexRML's performance.
+
+## Results
+The results of our evaluation can be found in the `results` directory.

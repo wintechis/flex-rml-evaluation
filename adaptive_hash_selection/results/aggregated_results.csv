@@ -1,0 +1,13 @@
+Command,Mean Time in s, Memory in kb
+/usr/bin/time -v ./FlexRML -m ./10k_genomic/mapping.ttl -o res -d -t -a -p 0.05,0.06666666666666667,4496.0
+/usr/bin/time -v ./FlexRML -m ./100k_genomic/mapping.ttl -o res -d -t -a -p 0.05,0.32666666666666666,4918.666666666667
+/usr/bin/time -v ./FlexRML -m ./1M_genomic/mapping.ttl -o res -d -t -a -p 0.05,3.0733333333333337,6334.666666666667
+/usr/bin/time -v ./FlexRML -m ./GTFS_10/mapping.nt -o res -d -t -a -p 0.05,10.799999999999999,276750.6666666667
+/usr/bin/time -v ./FlexRML -m ./GTFS_100/mapping.nt -o res -d -t -a -p 0.05,113.75666666666666,2488430.6666666665
+/usr/bin/time -v ./FlexRML -m ./GTFS_500/mapping.nt -o res -d -t -a -p 0.05,510.93333333333334,16536588.0
+/usr/bin/time -v ./FlexRML -m ./10k_genomic/mapping.ttl -o res -d -t -b 128,1.59,4466.666666666667
+/usr/bin/time -v ./FlexRML -m ./100k_genomic/mapping.ttl -o res -d -t -b 128,0.2866666666666667,5061.333333333333
+/usr/bin/time -v ./FlexRML -m ./1M_genomic/mapping.ttl -o res -d -t -b 128,2.8633333333333333,7009.333333333333
+/usr/bin/time -v ./FlexRML -m ./GTFS_10/mapping.nt -o res -d -t -b 128,9.13,328414.6666666667
+/usr/bin/time -v ./FlexRML -m ./GTFS_100/mapping.nt -o res -d -t -b 128,93.45666666666666,3359869.3333333335
+/usr/bin/time -v ./FlexRML -m ./GTFS_500/mapping.nt -o res -d -t -b 128,482.3233333333333,16047285.333333334
