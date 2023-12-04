@@ -1,0 +1,10 @@
+Command,Mean Time in s, Memory in kb
+/usr/bin/time -v ./main -m ./10k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA,0.06,4774.666666666667
+/usr/bin/time -v ./main -m ./10k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA,0.05000000000000001,6014.666666666667
+/usr/bin/time -v ./main -m ./10k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA,0.27666666666666667,11618.666666666666
+/usr/bin/time -v ./main -m ./100k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA,0.66,8873.333333333334
+/usr/bin/time -v ./main -m ./100k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA,0.5,16249.333333333334
+/usr/bin/time -v ./main -m ./100k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA,10.243333333333332,108781.33333333333
+/usr/bin/time -v ./main -m ./1M_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA,6.81,43706.666666666664
+/usr/bin/time -v ./main -m ./1M_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA,4.9433333333333325,35661.333333333336
+/usr/bin/time -v ./main -m ./1M_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA,1159.2366666666667,3521254.6666666665

@@ -1,0 +1,153 @@
+Command: /usr/bin/time -v ./FlexRML -m ./10k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.06
+Peak Memory Usage (KB): 4684
+
+Command: /usr/bin/time -v ./FlexRML -m ./10k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.06
+Peak Memory Usage (KB): 4844
+
+Command: /usr/bin/time -v ./FlexRML -m ./10k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.06
+Peak Memory Usage (KB): 4796
+
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./10k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA: 0.06 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./10k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA: 4774.666666666667 kilobytes
+
+=====================================
+=====================================
+Command: /usr/bin/time -v ./FlexRML -m ./10k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.05
+Peak Memory Usage (KB): 5944
+
+Command: /usr/bin/time -v ./FlexRML -m ./10k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.05
+Peak Memory Usage (KB): 6092
+
+Command: /usr/bin/time -v ./FlexRML -m ./10k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.05
+Peak Memory Usage (KB): 6008
+
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./10k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA: 0.05000000000000001 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./10k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA: 6014.666666666667 kilobytes
+
+=====================================
+=====================================
+Command: /usr/bin/time -v ./FlexRML -m ./10k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.27
+Peak Memory Usage (KB): 11664
+
+Command: /usr/bin/time -v ./FlexRML -m ./10k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.28
+Peak Memory Usage (KB): 11640
+
+Command: /usr/bin/time -v ./FlexRML -m ./10k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.28
+Peak Memory Usage (KB): 11552
+
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./10k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA: 0.27666666666666667 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./10k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA: 11618.666666666666 kilobytes
+
+=====================================
+=====================================
+Command: /usr/bin/time -v ./FlexRML -m ./100k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.66
+Peak Memory Usage (KB): 8912
+
+Command: /usr/bin/time -v ./FlexRML -m ./100k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.66
+Peak Memory Usage (KB): 8844
+
+Command: /usr/bin/time -v ./FlexRML -m ./100k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.66
+Peak Memory Usage (KB): 8864
+
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./100k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA: 0.66 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./100k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA: 8873.333333333334 kilobytes
+
+=====================================
+=====================================
+Command: /usr/bin/time -v ./FlexRML -m ./100k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.5
+Peak Memory Usage (KB): 16692
+
+Command: /usr/bin/time -v ./FlexRML -m ./100k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.5
+Peak Memory Usage (KB): 16032
+
+Command: /usr/bin/time -v ./FlexRML -m ./100k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 0.5
+Peak Memory Usage (KB): 16024
+
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./100k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA: 0.5 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./100k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA: 16249.333333333334 kilobytes
+
+=====================================
+=====================================
+Command: /usr/bin/time -v ./FlexRML -m ./100k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 10.24
+Peak Memory Usage (KB): 112628
+
+Command: /usr/bin/time -v ./FlexRML -m ./100k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 10.34
+Peak Memory Usage (KB): 112592
+
+Command: /usr/bin/time -v ./FlexRML -m ./100k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 10.15
+Peak Memory Usage (KB): 101124
+
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./100k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA: 10.243333333333332 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./100k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA: 108781.33333333333 kilobytes
+
+=====================================
+=====================================
+Command: /usr/bin/time -v ./FlexRML -m ./1M_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 6.83
+Peak Memory Usage (KB): 43712
+
+Command: /usr/bin/time -v ./FlexRML -m ./1M_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 6.82
+Peak Memory Usage (KB): 43704
+
+Command: /usr/bin/time -v ./FlexRML -m ./1M_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 6.78
+Peak Memory Usage (KB): 43704
+
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./1M_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA: 6.81 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./1M_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA: 43706.666666666664 kilobytes
+
+=====================================
+=====================================
+Command: /usr/bin/time -v ./FlexRML -m ./1M_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 4.98
+Peak Memory Usage (KB): 35680
+
+Command: /usr/bin/time -v ./FlexRML -m ./1M_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 4.88
+Peak Memory Usage (KB): 36108
+
+Command: /usr/bin/time -v ./FlexRML -m ./1M_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 4.97
+Peak Memory Usage (KB): 35196
+
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./1M_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA: 4.9433333333333325 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./1M_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA: 35661.333333333336 kilobytes
+
+=====================================
+=====================================
+Command: /usr/bin/time -v ./FlexRML -m ./1M_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 1156.33
+Peak Memory Usage (KB): 3528124
+
+Command: /usr/bin/time -v ./FlexRML -m ./1M_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 1163.73
+Peak Memory Usage (KB): 3521348
+
+Command: /usr/bin/time -v ./FlexRML -m ./1M_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA
+Elapsed Wall Time (s): 1157.65
+Peak Memory Usage (KB): 3514292
+
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./1M_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA: 1159.2366666666667 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./1M_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA: 3521254.6666666665 kilobytes
+
+=====================================
+=====================================

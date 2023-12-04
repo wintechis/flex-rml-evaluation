@@ -1,0 +1,126 @@
+Command: ./10k_genomic/4POM_Normal.ttl
+Elapsed Wall Time (s): 4.51
+Peak Memory Usage (KB): 96468
+Command: ./10k_genomic/4POM_Normal.ttl
+Elapsed Wall Time (s): 4.11
+Peak Memory Usage (KB): 96472
+Command: ./10k_genomic/4POM_Normal.ttl
+Elapsed Wall Time (s): 4.15
+Peak Memory Usage (KB): 96476
+Mean Elapsed Time for ./10k_genomic/4POM_Normal.ttl: 4.256666666666667 seconds
+Mean Peak Memory Usage for ./10k_genomic/4POM_Normal.ttl: 96472.0 kilobytes
+
+=====================================
+=====================================
+Command: ./10k_genomic/5ORM.ttl
+Elapsed Wall Time (s): 7.35
+Peak Memory Usage (KB): 97292
+Command: ./10k_genomic/5ORM.ttl
+Elapsed Wall Time (s): 7.41
+Peak Memory Usage (KB): 97296
+Command: ./10k_genomic/5ORM.ttl
+Elapsed Wall Time (s): 7.05
+Peak Memory Usage (KB): 97304
+Mean Elapsed Time for ./10k_genomic/5ORM.ttl: 7.27 seconds
+Mean Peak Memory Usage for ./10k_genomic/5ORM.ttl: 97297.33333333333 kilobytes
+
+=====================================
+=====================================
+Command: ./10k_genomic/5OJM.ttl
+Elapsed Wall Time (s): 9.02
+Peak Memory Usage (KB): 99712
+Command: ./10k_genomic/5OJM.ttl
+Elapsed Wall Time (s): 9.14
+Peak Memory Usage (KB): 99680
+Command: ./10k_genomic/5OJM.ttl
+Elapsed Wall Time (s): 9.13
+Peak Memory Usage (KB): 99696
+Mean Elapsed Time for ./10k_genomic/5OJM.ttl: 9.096666666666666 seconds
+Mean Peak Memory Usage for ./10k_genomic/5OJM.ttl: 99696.0 kilobytes
+
+=====================================
+=====================================
+Command: ./100k_genomic/4POM_Normal.ttl
+Elapsed Wall Time (s): 12.62
+Peak Memory Usage (KB): 155652
+Command: ./100k_genomic/4POM_Normal.ttl
+Elapsed Wall Time (s): 12.54
+Peak Memory Usage (KB): 155652
+Command: ./100k_genomic/4POM_Normal.ttl
+Elapsed Wall Time (s): 12.28
+Peak Memory Usage (KB): 155660
+Mean Elapsed Time for ./100k_genomic/4POM_Normal.ttl: 12.479999999999999 seconds
+Mean Peak Memory Usage for ./100k_genomic/4POM_Normal.ttl: 155654.66666666666 kilobytes
+
+=====================================
+=====================================
+Command: ./100k_genomic/5ORM.ttl
+Elapsed Wall Time (s): 23.46
+Peak Memory Usage (KB): 150532
+Command: ./100k_genomic/5ORM.ttl
+Elapsed Wall Time (s): 23.59
+Peak Memory Usage (KB): 150536
+Command: ./100k_genomic/5ORM.ttl
+Elapsed Wall Time (s): 23.13
+Peak Memory Usage (KB): 150516
+Mean Elapsed Time for ./100k_genomic/5ORM.ttl: 23.39333333333333 seconds
+Mean Peak Memory Usage for ./100k_genomic/5ORM.ttl: 150528.0 kilobytes
+
+=====================================
+=====================================
+Command: ./100k_genomic/5OJM.ttl
+Elapsed Wall Time (s): 50.97
+Peak Memory Usage (KB): 228044
+Command: ./100k_genomic/5OJM.ttl
+Elapsed Wall Time (s): 51.11
+Peak Memory Usage (KB): 228040
+Command: ./100k_genomic/5OJM.ttl
+Elapsed Wall Time (s): 50.84
+Peak Memory Usage (KB): 228032
+Mean Elapsed Time for ./100k_genomic/5OJM.ttl: 50.973333333333336 seconds
+Mean Peak Memory Usage for ./100k_genomic/5OJM.ttl: 228038.66666666666 kilobytes
+
+=====================================
+=====================================
+Command: ./1M_genomic/4POM_Normal.ttl
+Elapsed Wall Time (s): 101.93
+Peak Memory Usage (KB): 666312
+Command: ./1M_genomic/4POM_Normal.ttl
+Elapsed Wall Time (s): 99.83
+Peak Memory Usage (KB): 666304
+Command: ./1M_genomic/4POM_Normal.ttl
+Elapsed Wall Time (s): 99.62
+Peak Memory Usage (KB): 666316
+Mean Elapsed Time for ./1M_genomic/4POM_Normal.ttl: 100.46 seconds
+Mean Peak Memory Usage for ./1M_genomic/4POM_Normal.ttl: 666310.6666666666 kilobytes
+
+=====================================
+=====================================
+Command: ./1M_genomic/5ORM.ttl
+Elapsed Wall Time (s): 188.97
+Peak Memory Usage (KB): 667760
+Command: ./1M_genomic/5ORM.ttl
+Elapsed Wall Time (s): 193.07
+Peak Memory Usage (KB): 667772
+Command: ./1M_genomic/5ORM.ttl
+Elapsed Wall Time (s): 189.53
+Peak Memory Usage (KB): 667772
+Mean Elapsed Time for ./1M_genomic/5ORM.ttl: 190.5233333333333 seconds
+Mean Peak Memory Usage for ./1M_genomic/5ORM.ttl: 667768.0 kilobytes
+
+=====================================
+=====================================
+Command: ./1M_genomic/5OJM.ttl
+Elapsed Wall Time (s): 884.38
+Peak Memory Usage (KB): 3297516
+Command: ./1M_genomic/5OJM.ttl
+Elapsed Wall Time (s): 870.36
+Peak Memory Usage (KB): 3319992
+Command: ./1M_genomic/5OJM.ttl
+Elapsed Wall Time (s): 885.79
+Peak Memory Usage (KB): 3320008
+Mean Elapsed Time for ./1M_genomic/5OJM.ttl: 880.1766666666666 seconds
+Mean Peak Memory Usage for ./1M_genomic/5OJM.ttl: 3312505.3333333335 kilobytes
+
+=====================================
+=====================================

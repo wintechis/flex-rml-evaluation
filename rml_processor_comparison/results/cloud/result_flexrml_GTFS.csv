@@ -1,0 +1,4 @@
+Command,Mean Time in s, Memory in kb
+/usr/bin/time -v ./main -m ./GTFS_10/mapping.nt -o res -d -t -a -p 0.05,10.799999999999999,274925.3333333333
+/usr/bin/time -v ./main -m ./GTFS_100/mapping.nt -o res -d -t -a -p 0.05,112.86666666666667,2510814.6666666665
+/usr/bin/time -v ./main -m ./GTFS_500/mapping.nt -o res -d -t -a -p 0.05,506.47,18847897.333333332

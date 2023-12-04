@@ -1,0 +1,28 @@
+Command: /usr/bin/time -v ./FlexRML -m ./GTFS_10/mapping.nt -o res -d -t -a -p 0.05
+Elapsed Wall Time (s): 67.49
+Peak Memory Usage (KB): 262660
+Command: /usr/bin/time -v ./FlexRML -m ./GTFS_10/mapping.nt -o res -d -t -a -p 0.05
+Elapsed Wall Time (s): 67.81
+Peak Memory Usage (KB): 267676
+Command: /usr/bin/time -v ./FlexRML -m ./GTFS_10/mapping.nt -o res -d -t -a -p 0.05
+Elapsed Wall Time (s): 66.86
+Peak Memory Usage (KB): 261248
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./GTFS_10/mapping.nt -o res -d -t -a -p 0.05: 67.38666666666667 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./GTFS_10/mapping.nt -o res -d -t -a -p 0.05: 263861.3333333333 kilobytes
+
+=====================================
+=====================================
+Command: /usr/bin/time -v ./FlexRML -m ./GTFS_100/mapping.nt -o res -d -t -a -p 0.05
+Elapsed Wall Time (s): 799.43
+Peak Memory Usage (KB): 2073100
+Command: /usr/bin/time -v ./FlexRML -m ./GTFS_100/mapping.nt -o res -d -t -a -p 0.05
+Elapsed Wall Time (s): 714.87
+Peak Memory Usage (KB): 2343316
+Command: /usr/bin/time -v ./FlexRML -m ./GTFS_100/mapping.nt -o res -d -t -a -p 0.05
+Elapsed Wall Time (s): 711.96
+Peak Memory Usage (KB): 2340928
+Mean Elapsed Time for /usr/bin/time -v ./FlexRML -m ./GTFS_100/mapping.nt -o res -d -t -a -p 0.05: 742.0866666666667 seconds
+Mean Peak Memory Usage for /usr/bin/time -v ./FlexRML -m ./GTFS_100/mapping.nt -o res -d -t -a -p 0.05: 2252448.0 kilobytes
+
+=====================================
+=====================================

@@ -1,0 +1,10 @@
+Command,Mean Time in s, Memory in kb
+/usr/bin/time -v ./FlexRML -m ./10k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA,0.31000000000000005,3948.0
+/usr/bin/time -v ./FlexRML -m ./10k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA,0.3866666666666667,4341.333333333333
+/usr/bin/time -v ./FlexRML -m ./10k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA,2.3266666666666667,9330.666666666666
+/usr/bin/time -v ./FlexRML -m ./100k_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA,3.0866666666666664,8017.333333333333
+/usr/bin/time -v ./FlexRML -m ./100k_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA,3.3699999999999997,7317.333333333333
+/usr/bin/time -v ./FlexRML -m ./100k_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA,67.42333333333333,98056.0
+/usr/bin/time -v ./FlexRML -m ./1M_genomic/4POM_Normal.ttl -o res -d -t -a -p 0.05 -r NA,28.333333333333332,42908.0
+/usr/bin/time -v ./FlexRML -m ./1M_genomic/5ORM.ttl -o res -d -t -a -p 0.05 -r NA,30.0,32705.333333333332
+/usr/bin/time -v ./FlexRML -m ./1M_genomic/5OJM.ttl -o res -d -t -a -p 0.05 -r NA,8485.0,3192013.3333333335

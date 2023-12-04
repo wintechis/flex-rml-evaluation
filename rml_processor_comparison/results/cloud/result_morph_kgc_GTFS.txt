@@ -1,0 +1,51 @@
+Command: ./GTFS_10/mapping.nt
+Elapsed Wall Time (s): 12.76
+Peak Memory Usage (KB): 680128
+
+Command: ./GTFS_10/mapping.nt
+Elapsed Wall Time (s): 12.2
+Peak Memory Usage (KB): 670424
+
+Command: ./GTFS_10/mapping.nt
+Elapsed Wall Time (s): 12.2
+Peak Memory Usage (KB): 679900
+
+Mean Elapsed Time for ./GTFS_10/mapping.nt: 12.386666666666665 seconds
+Mean Peak Memory Usage for ./GTFS_10/mapping.nt: 676817.3333333334 kilobytes
+
+=====================================
+=====================================
+Command: ./GTFS_100/mapping.nt
+Elapsed Wall Time (s): 108.42
+Peak Memory Usage (KB): 5967156
+
+Command: ./GTFS_100/mapping.nt
+Elapsed Wall Time (s): 108.00999999999999
+Peak Memory Usage (KB): 5969868
+
+Command: ./GTFS_100/mapping.nt
+Elapsed Wall Time (s): 108.87
+Peak Memory Usage (KB): 5965596
+
+Mean Elapsed Time for ./GTFS_100/mapping.nt: 108.43333333333334 seconds
+Mean Peak Memory Usage for ./GTFS_100/mapping.nt: 5967540.0 kilobytes
+
+=====================================
+=====================================
+Command: ./GTFS_500/mapping.nt
+Elapsed Wall Time (s): 580.55
+Peak Memory Usage (KB): 29514072
+
+Command: ./GTFS_500/mapping.nt
+Elapsed Wall Time (s): 584.47
+Peak Memory Usage (KB): 29510364
+
+Command: ./GTFS_500/mapping.nt
+Elapsed Wall Time (s): 579.47
+Peak Memory Usage (KB): 29503456
+
+Mean Elapsed Time for ./GTFS_500/mapping.nt: 581.4966666666667 seconds
+Mean Peak Memory Usage for ./GTFS_500/mapping.nt: 29509297.333333332 kilobytes
+
+=====================================
+=====================================

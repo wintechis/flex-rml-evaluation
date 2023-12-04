@@ -1,0 +1,14 @@
+Command: ./GTFS_10/mapping.nt
+Elapsed Wall Time (s): 516.63
+Peak Memory Usage (KB): 1078628
+Command: ./GTFS_10/mapping.nt
+Elapsed Wall Time (s): 501.3
+Peak Memory Usage (KB): 1078820
+Command: ./GTFS_10/mapping.nt
+Elapsed Wall Time (s): 500.75
+Peak Memory Usage (KB): 1078824
+Mean Elapsed Time for ./GTFS_10/mapping.nt: 506.2266666666667 seconds
+Mean Peak Memory Usage for ./GTFS_10/mapping.nt: 1078757.3333333333 kilobytes
+
+=====================================
+=====================================
