@@ -1,6 +1,6 @@
 # FlexRML Evaluation
 
-This repository contains all files necessary to reproduce the benchmarks and also contains our results.
+This repository contains all files necessary to reproduce the benchmarks of [FlexRML](https://github.com/wintechis/flex-rml) and also contains our results.
 
 The repository has 4 subfolders:
 
